@@ -31,7 +31,7 @@ main()
         
         case '2':
         {
-            printf("\nMonday\n");
+            printf("\nMonday");
             break;
         }//case 2
         
